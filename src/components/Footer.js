@@ -2,10 +2,10 @@ import './footer.css'
 import React, { useState } from 'react';
 
 function Footer() {
-  const [backgroundColor, setBackgroundColor] = useState('pink');
+  const [backgroundColor, setBackgroundColor] = useState('#810CA8');
   
   const handleBackgroundColorChange = () => {
-    setBackgroundColor('lightblue');
+    setBackgroundColor('#EF9A53');
   }
   
   return (
