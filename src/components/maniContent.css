@@ -1,0 +1,25 @@
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 70px;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .purple {
+    color: #810CA8;
+    font-weight: bolder;
+  }
+  .orange {
+    color: #EF9A53;
+    font-weight: bolder;
+  }
